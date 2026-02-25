@@ -1,0 +1,18 @@
+# images 
+*.nii
+*.nii.gz
+*.img
+*.hdr
+*.tar.gz
+*.zip
+
+#  models
+*.pth
+*.pkl
+
+#  junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.DS_Store
