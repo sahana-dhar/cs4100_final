@@ -1,6 +1,10 @@
 # Disease Progression Modeling
 Group 12: Anya Wild, Sahana Dhar, Pradnya Balamurugan, Shireen Kumar
 
+# Project Proposal
+https://docs.google.com/document/d/1KpmXgZfMOgtlGukHRuJy4pufTLLY-a1wsbrNoEKHMC8/edit?usp=sharing
+
+
 CNN + HMM pipeline that predicts brain disease progression
 from longitudinal MRI scans and clinical data.
 Target: Clinical Dementia Rating
